@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3959
+
+By defining a simple syntax in Vim and using brilliant folding capabilities workflowish can simulate 99% of Workflowy's features.
+
+Main repository:  https://github.com/lukaszkorecki/workflowish
+
+Features?
+
+- searching (duh, it's, like, in Vim, broseph)
+- deleting (as above)
+- folding as a substitute for great zoom feature
+- notes (just add \ in the beginning of the line to start a comment)
+- vimgrep for filtering lines
+- todos:
+  - a todo which is not completed is a line which starts with *
+  - completed todo starts with a -
+
+Thanks to the long running tradition, workflowish files have .wofl extension.
+
